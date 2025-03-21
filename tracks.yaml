@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:rockos-riscv-ros/control_msgs-release.git
 tracks:
   bouncy:
     actions:
